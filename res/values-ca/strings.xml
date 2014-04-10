@@ -25,10 +25,11 @@
   <string name="theme_current_author">Autor: </string>
   <string name="theme_current_name">Nom: </string>
   <string name="theme_current_package">Paquet: </string>
-  <string name="theme_change_dialog_title">Aplicant\u2026</string>
+  <string name="theme_change_dialog_title">
+S\'està aplicant\u2026</string>
   <string name="switching_to_theme">Canviant a <xliff:g id="theme">%s</xliff:g>\u2026</string>
   <string name="dialog_theme_error_title">Error del tema</string>
-  <string name="dialog_missing_host_density_msg">A aquest tema li falten els components de la resolució de pantalla del teu dispositiu.</string>
-  <string name="dialog_missing_theme_package_scope_msg">Aquest tema ha estat compilat inadequadament i no es pot aplicar.</string>
+  <string name="dialog_missing_host_density_msg">En aquest tema hi falten els components de la resolució de pantalla del teu dispositiu.</string>
+  <string name="dialog_missing_theme_package_scope_msg">Aquest tema s\'ha compilat inadequadament i no es pot aplicar.</string>
   <string name="dialog_apply_anyway_btn">Aplica de totes maneres</string>
 </resources>
